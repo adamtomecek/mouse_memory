@@ -1,0 +1,297 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 497}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 47}";
+		};
+	};
+	256AC3D80F4B6AC300CF3369 /* MouseMemoryAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 572}}";
+			sepNavSelRange = "{1038, 0}";
+			sepNavVisRange = "{34, 1082}";
+			sepNavWindowFrame = "{{15, 59}, {750, 719}}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* MouseMemoryAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {439, 1898}}";
+			sepNavSelRange = "{3288, 0}";
+			sepNavVisRange = "{3005, 425}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = C29E8DE513C08E8E00AD7CBE /* MouseMemory */;
+		activeTarget = 8D1107260486CEB800E47090 /* MouseMemory */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* MouseMemory */,
+		);
+		codeSenseManager = C29E8DF013C08EA500AD7CBE /* Code sense */;
+		executables = (
+			C29E8DE513C08E8E00AD7CBE /* MouseMemory */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					833,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					793,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 331553151;
+			PBXWorkspaceStateSaveDate = 331553151;
+		};
+		perUserProjectItems = {
+			C2105B3513C1F046006536C1 /* PlistBookmark */ = C2105B3513C1F046006536C1 /* PlistBookmark */;
+			C23065B913C319CD00254755 /* PlistBookmark */ = C23065B913C319CD00254755 /* PlistBookmark */;
+			C297958513C09C9F00E4632E /* PBXTextBookmark */ = C297958513C09C9F00E4632E /* PBXTextBookmark */;
+			C29795FF13C09F1B00E4632E /* PBXTextBookmark */ = C29795FF13C09F1B00E4632E /* PBXTextBookmark */;
+			C29799D013C0D27A00E4632E /* PlistBookmark */ = C29799D013C0D27A00E4632E /* PlistBookmark */;
+			C29BB82313C1DF8A0087D277 /* PBXBookmark */ = C29BB82313C1DF8A0087D277 /* PBXBookmark */;
+			C29BB82C13C1E1C10087D277 /* PBXBookmark */ = C29BB82C13C1E1C10087D277 /* PBXBookmark */;
+			C29BB82D13C1E1C10087D277 /* PBXTextBookmark */ = C29BB82D13C1E1C10087D277 /* PBXTextBookmark */;
+			C29BB82E13C1E1C10087D277 /* PBXTextBookmark */ = C29BB82E13C1E1C10087D277 /* PBXTextBookmark */;
+			C29BB85613C1E6590087D277 /* PBXTextBookmark */ = C29BB85613C1E6590087D277 /* PBXTextBookmark */;
+			C29BB85713C1E6590087D277 /* PBXTextBookmark */ = C29BB85713C1E6590087D277 /* PBXTextBookmark */;
+			C29BB85813C1E6590087D277 /* PBXTextBookmark */ = C29BB85813C1E6590087D277 /* PBXTextBookmark */;
+		};
+		sourceControlManager = C29E8DEF13C08EA500AD7CBE /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* MouseMemory */ = {
+		activeExec = 0;
+		executables = (
+			C29E8DE513C08E8E00AD7CBE /* MouseMemory */,
+		);
+	};
+	C2105B3513C1F046006536C1 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* MouseMemory-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/adamtomecek/Programování/MouseMemory/MouseMemory-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	C23065B913C319CD00254755 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* MouseMemory-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/adamtomecek/Programování/MouseMemory/MouseMemory-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	C297956413C09B7C00E4632E /* HIDSystem.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 418}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 216}";
+		};
+	};
+	C297956513C09B7C00E4632E /* HIDSystem.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 497}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 841}";
+		};
+	};
+	C297958113C09C8100E4632E /* Defaults.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 418}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 324}";
+		};
+	};
+	C297958513C09C9F00E4632E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C297956413C09B7C00E4632E /* HIDSystem.h */;
+		name = "HIDSystem.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 216;
+		vrLoc = 0;
+	};
+	C29795FF13C09F1B00E4632E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C297958113C09C8100E4632E /* Defaults.h */;
+		name = "Defaults.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 324;
+		vrLoc = 0;
+	};
+	C297986013C0BC3800E4632E /* profiles.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 59}, {750, 719}}";
+		};
+	};
+	C29799D013C0D27A00E4632E /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = C297986013C0BC3800E4632E /* profiles.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			MagicMouse,
+		);
+		name = "/Users/adamtomecek/Programování/MouseMemory/profiles.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	C29BB82313C1DF8A0087D277 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = C297969213C0A6CC00E4632E /* ma.png */;
+	};
+	C29BB82C13C1E1C10087D277 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = C297968313C0A61300E4632E /* m.png */;
+	};
+	C29BB82D13C1E1C10087D277 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C297956513C09B7C00E4632E /* HIDSystem.m */;
+		name = "HIDSystem.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 841;
+		vrLoc = 0;
+	};
+	C29BB82E13C1E1C10087D277 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* MouseMemoryAppDelegate.h */;
+		name = "MouseMemoryAppDelegate.h: 38";
+		rLen = 0;
+		rLoc = 1038;
+		rType = 0;
+		vrLen = 1082;
+		vrLoc = 34;
+	};
+	C29BB84B13C1E3CD0087D277 /* dsa_pub.pem */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 497}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1182}";
+		};
+	};
+	C29BB85613C1E6590087D277 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* MouseMemoryAppDelegate.m */;
+		name = "MouseMemoryAppDelegate.m: 115";
+		rLen = 0;
+		rLoc = 3391;
+		rType = 0;
+		vrLen = 1020;
+		vrLoc = 2525;
+	};
+	C29BB85713C1E6590087D277 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C29BB84B13C1E3CD0087D277 /* dsa_pub.pem */;
+		name = "dsa_pub.pem: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1182;
+		vrLoc = 0;
+	};
+	C29BB85813C1E6590087D277 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 47;
+		vrLoc = 0;
+	};
+	C29E8DE513C08E8E00AD7CBE /* MouseMemory */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = MouseMemory;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	C29E8DEF13C08EA500AD7CBE /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	C29E8DF013C08EA500AD7CBE /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}
